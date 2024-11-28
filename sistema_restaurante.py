@@ -4,7 +4,7 @@ Turma - 93313
 
 Nome completo dos componentes.
 1 - Bruno Henrique Alves Santos
-2 - 
+2 - João Victor Agapio Modesto Mendes
 """
 import os
 # Limpa o terminal.
